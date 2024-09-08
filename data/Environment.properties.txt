@@ -1,0 +1,3 @@
+configPath = /home/ramkumarra/Documents/Autotool/config/configuration.json
+ldap = ramkumarra
+password = Selviamma143
